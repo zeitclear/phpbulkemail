@@ -5,7 +5,7 @@
 ![enter image description here](https://i.imgur.com/GBCGrWg.png)
 
 # How use?
-<h3>don't forget to enable access to <a href="https://myaccount.google.com/lesssecureapps">less secure apps</a> in your Google account. Also, you need to install the <a href="https://getcomposer.org/">composer.</a></h3><br><br>
+:pushpin: <h3>don't forget to enable access to <a href="https://myaccount.google.com/lesssecureapps">less secure apps</a> in your Google account. Also, you need to install the <a href="https://getcomposer.org/">composer.</a></h3><br><br>
 
 
 **Follow the tutorial:**
