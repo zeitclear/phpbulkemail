@@ -1,4 +1,4 @@
-# Welcome to phpbulkemail!
+# Welcome to phpbulkemail! :white_check_mark:
 
 **Hi! This script is created in PHP for send massive emails of Gmail to Gmail.**
 
