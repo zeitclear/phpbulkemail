@@ -11,8 +11,7 @@ function ask_hidden() {
 }
 
 echo "\n-> phpbulkemail\n";
-echo "-> Send massive emails (GMAIL TO GMAIL).\n";
-echo "-> ACTIVE access for less secure apps in Gmail!\n";
+echo "-> https://github.com/zeitclear/phpbulkemail \n";
 echo "------------------------------------------------ \n\n";
 
 $email = readline("[#] Your email: ");
